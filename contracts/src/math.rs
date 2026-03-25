@@ -205,8 +205,6 @@ mod test {
 }
 
 #[cfg(kani)]
-
-#[cfg(kani)]
 mod proofs {
     use super::*;
 
